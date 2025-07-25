@@ -1,0 +1,3 @@
+https://example.com
+https://test.example.org
+https://demo.example.net
